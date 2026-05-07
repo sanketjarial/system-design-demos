@@ -82,7 +82,3 @@ In an interview, this matches a 45-minute slot. In real work, multiply each phas
 - `examples/01-url-shortener.md` — first worked example. Add `02-…`, `03-…` as you design more.
 
 ---
-
-## Folder convention
-
-All Design Framework knowledge, decisions, examples, and notes live in this folder only. Same rule applies to every top-level folder in the repo — each is fully self-contained for its topic.
